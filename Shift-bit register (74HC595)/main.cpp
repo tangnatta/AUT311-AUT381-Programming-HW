@@ -87,6 +87,16 @@ void setup()
 
     // digitalWrite(LATCH_PIN, HIGH);
     // delay(80);
+
+    // // Prepare CI to recive data
+    // digitalWrite(LATCH_PIN, LOW);
+
+    // // LSBFIRST: Normal order
+    // // MSBFIRST: Inverse order
+    // shiftOut(DATA_PIN, CLOCK_PIN, LSBFIRST, num2Byte[0]);
+
+    // // Inform CI to applay data
+    // digitalWrite(LATCH_PIN, HIGH);
 }
 
 void loop()
