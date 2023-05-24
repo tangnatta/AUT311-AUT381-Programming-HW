@@ -21,7 +21,6 @@ void loop()
 void receiveEvent(int howManyByte)
 {
   int x = Wire.read();
-  Serial.println(y);
   Serial.println(x);
   if (x==1)
   analogWrite(LED,x);
