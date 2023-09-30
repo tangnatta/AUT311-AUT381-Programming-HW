@@ -1,0 +1,7 @@
+D:\Vistual Studio 2022\Repo\Serial Communication\Serial Communication\obj\Debug\net7.0-windows\Serial Communication.csproj.AssemblyReference.cache
+D:\Vistual Studio 2022\Repo\Serial Communication\Serial Communication\obj\Debug\net7.0-windows\Serial_Communication.Form1.resources
+D:\Vistual Studio 2022\Repo\Serial Communication\Serial Communication\obj\Debug\net7.0-windows\Serial Communication.csproj.GenerateResource.cache
+D:\Vistual Studio 2022\Repo\Serial Communication\Serial Communication\obj\Debug\net7.0-windows\Serial Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vistual Studio 2022\Repo\Serial Communication\Serial Communication\obj\Debug\net7.0-windows\Serial Communication.AssemblyInfoInputs.cache
+D:\Vistual Studio 2022\Repo\Serial Communication\Serial Communication\obj\Debug\net7.0-windows\Serial Communication.AssemblyInfo.cs
+D:\Vistual Studio 2022\Repo\Serial Communication\Serial Communication\obj\Debug\net7.0-windows\Serial Communication.csproj.CoreCompileInputs.cache

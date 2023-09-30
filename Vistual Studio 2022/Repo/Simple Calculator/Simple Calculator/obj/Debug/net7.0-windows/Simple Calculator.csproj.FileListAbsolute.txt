@@ -1,0 +1,17 @@
+D:\Vistual Studio 2022\Repo\Simple Calculator\Simple Calculator\bin\Debug\net7.0-windows\Simple Calculator.exe
+D:\Vistual Studio 2022\Repo\Simple Calculator\Simple Calculator\bin\Debug\net7.0-windows\Simple Calculator.deps.json
+D:\Vistual Studio 2022\Repo\Simple Calculator\Simple Calculator\bin\Debug\net7.0-windows\Simple Calculator.runtimeconfig.json
+D:\Vistual Studio 2022\Repo\Simple Calculator\Simple Calculator\bin\Debug\net7.0-windows\Simple Calculator.dll
+D:\Vistual Studio 2022\Repo\Simple Calculator\Simple Calculator\bin\Debug\net7.0-windows\Simple Calculator.pdb
+D:\Vistual Studio 2022\Repo\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.csproj.AssemblyReference.cache
+D:\Vistual Studio 2022\Repo\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple_Calculator.Form1.resources
+D:\Vistual Studio 2022\Repo\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.csproj.GenerateResource.cache
+D:\Vistual Studio 2022\Repo\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vistual Studio 2022\Repo\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.AssemblyInfoInputs.cache
+D:\Vistual Studio 2022\Repo\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.AssemblyInfo.cs
+D:\Vistual Studio 2022\Repo\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.csproj.CoreCompileInputs.cache
+D:\Vistual Studio 2022\Repo\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.dll
+D:\Vistual Studio 2022\Repo\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\refint\Simple Calculator.dll
+D:\Vistual Studio 2022\Repo\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.pdb
+D:\Vistual Studio 2022\Repo\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\Simple Calculator.genruntimeconfig.cache
+D:\Vistual Studio 2022\Repo\Simple Calculator\Simple Calculator\obj\Debug\net7.0-windows\ref\Simple Calculator.dll

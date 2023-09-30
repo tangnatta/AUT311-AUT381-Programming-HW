@@ -1,0 +1,17 @@
+D:\Vistual Studio 2022\Repo\Order Form\Order Form\bin\Debug\net7.0-windows\Order Form.exe
+D:\Vistual Studio 2022\Repo\Order Form\Order Form\bin\Debug\net7.0-windows\Order Form.deps.json
+D:\Vistual Studio 2022\Repo\Order Form\Order Form\bin\Debug\net7.0-windows\Order Form.runtimeconfig.json
+D:\Vistual Studio 2022\Repo\Order Form\Order Form\bin\Debug\net7.0-windows\Order Form.dll
+D:\Vistual Studio 2022\Repo\Order Form\Order Form\bin\Debug\net7.0-windows\Order Form.pdb
+D:\Vistual Studio 2022\Repo\Order Form\Order Form\obj\Debug\net7.0-windows\Order Form.csproj.AssemblyReference.cache
+D:\Vistual Studio 2022\Repo\Order Form\Order Form\obj\Debug\net7.0-windows\Order_Form.Form1.resources
+D:\Vistual Studio 2022\Repo\Order Form\Order Form\obj\Debug\net7.0-windows\Order Form.csproj.GenerateResource.cache
+D:\Vistual Studio 2022\Repo\Order Form\Order Form\obj\Debug\net7.0-windows\Order Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vistual Studio 2022\Repo\Order Form\Order Form\obj\Debug\net7.0-windows\Order Form.AssemblyInfoInputs.cache
+D:\Vistual Studio 2022\Repo\Order Form\Order Form\obj\Debug\net7.0-windows\Order Form.AssemblyInfo.cs
+D:\Vistual Studio 2022\Repo\Order Form\Order Form\obj\Debug\net7.0-windows\Order Form.csproj.CoreCompileInputs.cache
+D:\Vistual Studio 2022\Repo\Order Form\Order Form\obj\Debug\net7.0-windows\Order Form.dll
+D:\Vistual Studio 2022\Repo\Order Form\Order Form\obj\Debug\net7.0-windows\refint\Order Form.dll
+D:\Vistual Studio 2022\Repo\Order Form\Order Form\obj\Debug\net7.0-windows\Order Form.pdb
+D:\Vistual Studio 2022\Repo\Order Form\Order Form\obj\Debug\net7.0-windows\Order Form.genruntimeconfig.cache
+D:\Vistual Studio 2022\Repo\Order Form\Order Form\obj\Debug\net7.0-windows\ref\Order Form.dll

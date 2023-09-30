@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multipage and login 1", "multipage and login 1\multipage and login 1.csproj", "{BD43CEF6-FB2B-43B7-8303-BE73D762AA11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD43CEF6-FB2B-43B7-8303-BE73D762AA11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD43CEF6-FB2B-43B7-8303-BE73D762AA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD43CEF6-FB2B-43B7-8303-BE73D762AA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD43CEF6-FB2B-43B7-8303-BE73D762AA11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64984F33-E25E-4564-8766-22CC19DF7CA2}
+	EndGlobalSection
+EndGlobal

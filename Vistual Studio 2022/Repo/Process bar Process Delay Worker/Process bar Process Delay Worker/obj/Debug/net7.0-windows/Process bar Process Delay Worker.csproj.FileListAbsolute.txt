@@ -1,0 +1,17 @@
+D:\Vistual Studio 2022\Repo\Process bar Process Delay Worker\Process bar Process Delay Worker\bin\Debug\net7.0-windows\Process bar Process Delay Worker.exe
+D:\Vistual Studio 2022\Repo\Process bar Process Delay Worker\Process bar Process Delay Worker\bin\Debug\net7.0-windows\Process bar Process Delay Worker.deps.json
+D:\Vistual Studio 2022\Repo\Process bar Process Delay Worker\Process bar Process Delay Worker\bin\Debug\net7.0-windows\Process bar Process Delay Worker.runtimeconfig.json
+D:\Vistual Studio 2022\Repo\Process bar Process Delay Worker\Process bar Process Delay Worker\bin\Debug\net7.0-windows\Process bar Process Delay Worker.dll
+D:\Vistual Studio 2022\Repo\Process bar Process Delay Worker\Process bar Process Delay Worker\bin\Debug\net7.0-windows\Process bar Process Delay Worker.pdb
+D:\Vistual Studio 2022\Repo\Process bar Process Delay Worker\Process bar Process Delay Worker\obj\Debug\net7.0-windows\Process bar Process Delay Worker.csproj.AssemblyReference.cache
+D:\Vistual Studio 2022\Repo\Process bar Process Delay Worker\Process bar Process Delay Worker\obj\Debug\net7.0-windows\Process_bar_Process_Delay_Worker.Form1.resources
+D:\Vistual Studio 2022\Repo\Process bar Process Delay Worker\Process bar Process Delay Worker\obj\Debug\net7.0-windows\Process bar Process Delay Worker.csproj.GenerateResource.cache
+D:\Vistual Studio 2022\Repo\Process bar Process Delay Worker\Process bar Process Delay Worker\obj\Debug\net7.0-windows\Process bar Process Delay Worker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vistual Studio 2022\Repo\Process bar Process Delay Worker\Process bar Process Delay Worker\obj\Debug\net7.0-windows\Process bar Process Delay Worker.AssemblyInfoInputs.cache
+D:\Vistual Studio 2022\Repo\Process bar Process Delay Worker\Process bar Process Delay Worker\obj\Debug\net7.0-windows\Process bar Process Delay Worker.AssemblyInfo.cs
+D:\Vistual Studio 2022\Repo\Process bar Process Delay Worker\Process bar Process Delay Worker\obj\Debug\net7.0-windows\Process bar Process Delay Worker.csproj.CoreCompileInputs.cache
+D:\Vistual Studio 2022\Repo\Process bar Process Delay Worker\Process bar Process Delay Worker\obj\Debug\net7.0-windows\Process bar Process Delay Worker.dll
+D:\Vistual Studio 2022\Repo\Process bar Process Delay Worker\Process bar Process Delay Worker\obj\Debug\net7.0-windows\refint\Process bar Process Delay Worker.dll
+D:\Vistual Studio 2022\Repo\Process bar Process Delay Worker\Process bar Process Delay Worker\obj\Debug\net7.0-windows\Process bar Process Delay Worker.pdb
+D:\Vistual Studio 2022\Repo\Process bar Process Delay Worker\Process bar Process Delay Worker\obj\Debug\net7.0-windows\Process bar Process Delay Worker.genruntimeconfig.cache
+D:\Vistual Studio 2022\Repo\Process bar Process Delay Worker\Process bar Process Delay Worker\obj\Debug\net7.0-windows\ref\Process bar Process Delay Worker.dll

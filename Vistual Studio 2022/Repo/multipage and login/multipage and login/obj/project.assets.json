@@ -1,0 +1,48 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v7.0,Profile=windows": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v7.0,Profile=windows": []
+  },
+  "packageFolders": {
+    "C:\\Users\\KOSEN\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Vistual Studio 2022\\Repo\\multipage and login\\multipage and login\\multipage and login.csproj",
+      "projectName": "multipage and login",
+      "projectPath": "D:\\Vistual Studio 2022\\Repo\\multipage and login\\multipage and login\\multipage and login.csproj",
+      "packagesPath": "C:\\Users\\KOSEN\\.nuget\\packages\\",
+      "outputPath": "D:\\Vistual Studio 2022\\Repo\\multipage and login\\multipage and login\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\KOSEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net70-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net70-windows": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net70-windows": {}
+    }
+  }
+}

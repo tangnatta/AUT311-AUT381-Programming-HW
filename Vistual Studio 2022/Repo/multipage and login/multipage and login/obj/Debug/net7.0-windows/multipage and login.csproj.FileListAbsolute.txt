@@ -1,0 +1,17 @@
+D:\Vistual Studio 2022\Repo\multipage and login\multipage and login\bin\Debug\net7.0-windows\multipage and login.exe
+D:\Vistual Studio 2022\Repo\multipage and login\multipage and login\bin\Debug\net7.0-windows\multipage and login.deps.json
+D:\Vistual Studio 2022\Repo\multipage and login\multipage and login\bin\Debug\net7.0-windows\multipage and login.runtimeconfig.json
+D:\Vistual Studio 2022\Repo\multipage and login\multipage and login\bin\Debug\net7.0-windows\multipage and login.dll
+D:\Vistual Studio 2022\Repo\multipage and login\multipage and login\bin\Debug\net7.0-windows\multipage and login.pdb
+D:\Vistual Studio 2022\Repo\multipage and login\multipage and login\obj\Debug\net7.0-windows\multipage and login.csproj.AssemblyReference.cache
+D:\Vistual Studio 2022\Repo\multipage and login\multipage and login\obj\Debug\net7.0-windows\multipage_and_login.Form1.resources
+D:\Vistual Studio 2022\Repo\multipage and login\multipage and login\obj\Debug\net7.0-windows\multipage and login.csproj.GenerateResource.cache
+D:\Vistual Studio 2022\Repo\multipage and login\multipage and login\obj\Debug\net7.0-windows\multipage and login.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vistual Studio 2022\Repo\multipage and login\multipage and login\obj\Debug\net7.0-windows\multipage and login.AssemblyInfoInputs.cache
+D:\Vistual Studio 2022\Repo\multipage and login\multipage and login\obj\Debug\net7.0-windows\multipage and login.AssemblyInfo.cs
+D:\Vistual Studio 2022\Repo\multipage and login\multipage and login\obj\Debug\net7.0-windows\multipage and login.csproj.CoreCompileInputs.cache
+D:\Vistual Studio 2022\Repo\multipage and login\multipage and login\obj\Debug\net7.0-windows\multipage and login.dll
+D:\Vistual Studio 2022\Repo\multipage and login\multipage and login\obj\Debug\net7.0-windows\refint\multipage and login.dll
+D:\Vistual Studio 2022\Repo\multipage and login\multipage and login\obj\Debug\net7.0-windows\multipage and login.pdb
+D:\Vistual Studio 2022\Repo\multipage and login\multipage and login\obj\Debug\net7.0-windows\multipage and login.genruntimeconfig.cache
+D:\Vistual Studio 2022\Repo\multipage and login\multipage and login\obj\Debug\net7.0-windows\ref\multipage and login.dll

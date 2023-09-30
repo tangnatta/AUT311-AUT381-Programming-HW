@@ -1,0 +1,26 @@
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\obj\Debug\net7.0-windows\Table with Excel.csproj.AssemblyReference.cache
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\obj\Debug\net7.0-windows\Table_with_Excel.Form1.resources
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\obj\Debug\net7.0-windows\Table with Excel.csproj.GenerateResource.cache
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\obj\Debug\net7.0-windows\Table with Excel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\obj\Debug\net7.0-windows\Table with Excel.AssemblyInfoInputs.cache
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\obj\Debug\net7.0-windows\Table with Excel.AssemblyInfo.cs
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\obj\Debug\net7.0-windows\Table with Excel.csproj.CoreCompileInputs.cache
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\bin\Debug\net7.0-windows\Table with Excel.exe
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\bin\Debug\net7.0-windows\Table with Excel.deps.json
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\bin\Debug\net7.0-windows\Table with Excel.runtimeconfig.json
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\bin\Debug\net7.0-windows\Table with Excel.dll
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\bin\Debug\net7.0-windows\Table with Excel.pdb
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\bin\Debug\net7.0-windows\Microsoft.Office.Interop.Excel.dll
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\obj\Debug\net7.0-windows\Table with Excel.csproj.CopyComplete
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\obj\Debug\net7.0-windows\Table with Excel.dll
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\obj\Debug\net7.0-windows\refint\Table with Excel.dll
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\obj\Debug\net7.0-windows\Table with Excel.pdb
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\obj\Debug\net7.0-windows\Table with Excel.genruntimeconfig.cache
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\obj\Debug\net7.0-windows\ref\Table with Excel.dll
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\obj\Debug\net7.0-windows\Table_with_Excel.Login.resources
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\bin\Debug\net7.0-windows\ClosedXML.dll
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\bin\Debug\net7.0-windows\Irony.dll
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+D:\Vistual Studio 2022\Repo\Table with Excel\Table with Excel\bin\Debug\net7.0-windows\XLParser.dll
