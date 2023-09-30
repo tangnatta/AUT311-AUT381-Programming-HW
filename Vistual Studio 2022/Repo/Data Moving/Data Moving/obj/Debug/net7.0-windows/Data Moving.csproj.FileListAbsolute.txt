@@ -1,0 +1,17 @@
+D:\Vistual Studio 2022\Repo\Data Moving\Data Moving\obj\Debug\net7.0-windows\Data Moving.csproj.AssemblyReference.cache
+D:\Vistual Studio 2022\Repo\Data Moving\Data Moving\obj\Debug\net7.0-windows\Data_Moving.Form1.resources
+D:\Vistual Studio 2022\Repo\Data Moving\Data Moving\obj\Debug\net7.0-windows\Data Moving.csproj.GenerateResource.cache
+D:\Vistual Studio 2022\Repo\Data Moving\Data Moving\obj\Debug\net7.0-windows\Data Moving.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vistual Studio 2022\Repo\Data Moving\Data Moving\obj\Debug\net7.0-windows\Data Moving.AssemblyInfoInputs.cache
+D:\Vistual Studio 2022\Repo\Data Moving\Data Moving\obj\Debug\net7.0-windows\Data Moving.AssemblyInfo.cs
+D:\Vistual Studio 2022\Repo\Data Moving\Data Moving\obj\Debug\net7.0-windows\Data Moving.csproj.CoreCompileInputs.cache
+D:\Vistual Studio 2022\Repo\Data Moving\Data Moving\bin\Debug\net7.0-windows\Data Moving.exe
+D:\Vistual Studio 2022\Repo\Data Moving\Data Moving\bin\Debug\net7.0-windows\Data Moving.deps.json
+D:\Vistual Studio 2022\Repo\Data Moving\Data Moving\bin\Debug\net7.0-windows\Data Moving.runtimeconfig.json
+D:\Vistual Studio 2022\Repo\Data Moving\Data Moving\bin\Debug\net7.0-windows\Data Moving.dll
+D:\Vistual Studio 2022\Repo\Data Moving\Data Moving\bin\Debug\net7.0-windows\Data Moving.pdb
+D:\Vistual Studio 2022\Repo\Data Moving\Data Moving\obj\Debug\net7.0-windows\Data Moving.dll
+D:\Vistual Studio 2022\Repo\Data Moving\Data Moving\obj\Debug\net7.0-windows\refint\Data Moving.dll
+D:\Vistual Studio 2022\Repo\Data Moving\Data Moving\obj\Debug\net7.0-windows\Data Moving.pdb
+D:\Vistual Studio 2022\Repo\Data Moving\Data Moving\obj\Debug\net7.0-windows\Data Moving.genruntimeconfig.cache
+D:\Vistual Studio 2022\Repo\Data Moving\Data Moving\obj\Debug\net7.0-windows\ref\Data Moving.dll

@@ -1,0 +1,24 @@
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\obj\Debug\net7.0-windows\DB with forms app.csproj.AssemblyReference.cache
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\obj\Debug\net7.0-windows\DB_with_forms_app.Form1.resources
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\obj\Debug\net7.0-windows\DB with forms app.csproj.GenerateResource.cache
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\obj\Debug\net7.0-windows\DB with forms app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\obj\Debug\net7.0-windows\DB with forms app.AssemblyInfoInputs.cache
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\obj\Debug\net7.0-windows\DB with forms app.AssemblyInfo.cs
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\obj\Debug\net7.0-windows\DB with forms app.csproj.CoreCompileInputs.cache
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\bin\Debug\net7.0-windows\DB with forms app.exe
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\bin\Debug\net7.0-windows\DB with forms app.deps.json
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\bin\Debug\net7.0-windows\DB with forms app.runtimeconfig.json
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\bin\Debug\net7.0-windows\DB with forms app.dll
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\bin\Debug\net7.0-windows\DB with forms app.pdb
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\bin\Debug\net7.0-windows\ClosedXML.dll
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\bin\Debug\net7.0-windows\Irony.dll
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\bin\Debug\net7.0-windows\XLParser.dll
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\obj\Debug\net7.0-windows\DB with forms app.csproj.CopyComplete
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\obj\Debug\net7.0-windows\DB with forms app.dll
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\obj\Debug\net7.0-windows\refint\DB with forms app.dll
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\obj\Debug\net7.0-windows\DB with forms app.pdb
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\obj\Debug\net7.0-windows\DB with forms app.genruntimeconfig.cache
+D:\Vistual Studio 2022\Repo\DB with forms app\DB with forms app\obj\Debug\net7.0-windows\ref\DB with forms app.dll

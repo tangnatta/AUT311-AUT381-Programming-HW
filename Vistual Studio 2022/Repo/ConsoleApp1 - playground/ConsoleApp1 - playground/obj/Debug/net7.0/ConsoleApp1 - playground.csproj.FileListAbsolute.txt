@@ -1,0 +1,30 @@
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\obj\Debug\net7.0\ConsoleApp1 - playground.csproj.AssemblyReference.cache
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\obj\Debug\net7.0\ConsoleApp1 - playground.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\obj\Debug\net7.0\ConsoleApp1 - playground.AssemblyInfoInputs.cache
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\obj\Debug\net7.0\ConsoleApp1 - playground.AssemblyInfo.cs
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\obj\Debug\net7.0\ConsoleApp1 - playground.csproj.CoreCompileInputs.cache
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\net7.0\ConsoleApp1 - playground.exe
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\net7.0\ConsoleApp1 - playground.deps.json
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\net7.0\ConsoleApp1 - playground.runtimeconfig.json
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\net7.0\ConsoleApp1 - playground.dll
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\net7.0\ConsoleApp1 - playground.pdb
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\obj\Debug\net7.0\ConsoleApp1 - playground.dll
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\obj\Debug\net7.0\refint\ConsoleApp1 - playground.dll
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\obj\Debug\net7.0\ConsoleApp1 - playground.pdb
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\obj\Debug\net7.0\ConsoleApp1 - playground.genruntimeconfig.cache
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\obj\Debug\net7.0\ref\ConsoleApp1 - playground.dll
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\net7.0\AWSSDK.Core.dll
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\net7.0\DnsClient.dll
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\net7.0\MongoDB.Bson.dll
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\net7.0\MongoDB.Driver.dll
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\net7.0\SharpCompress.dll
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\net7.0\Snappier.dll
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\net7.0\ZstdSharp.dll
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+D:\Vistual Studio 2022\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\obj\Debug\net7.0\ConsoleApp1 - playground.csproj.CopyComplete

@@ -1,0 +1,17 @@
+D:\Vistual Studio 2022\Repo\Add Calculator\Add Calculator\bin\Debug\net7.0-windows\Add Calculator.exe
+D:\Vistual Studio 2022\Repo\Add Calculator\Add Calculator\bin\Debug\net7.0-windows\Add Calculator.deps.json
+D:\Vistual Studio 2022\Repo\Add Calculator\Add Calculator\bin\Debug\net7.0-windows\Add Calculator.runtimeconfig.json
+D:\Vistual Studio 2022\Repo\Add Calculator\Add Calculator\bin\Debug\net7.0-windows\Add Calculator.dll
+D:\Vistual Studio 2022\Repo\Add Calculator\Add Calculator\bin\Debug\net7.0-windows\Add Calculator.pdb
+D:\Vistual Studio 2022\Repo\Add Calculator\Add Calculator\obj\Debug\net7.0-windows\Add Calculator.csproj.AssemblyReference.cache
+D:\Vistual Studio 2022\Repo\Add Calculator\Add Calculator\obj\Debug\net7.0-windows\Add_Calculator.Form1.resources
+D:\Vistual Studio 2022\Repo\Add Calculator\Add Calculator\obj\Debug\net7.0-windows\Add Calculator.csproj.GenerateResource.cache
+D:\Vistual Studio 2022\Repo\Add Calculator\Add Calculator\obj\Debug\net7.0-windows\Add Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vistual Studio 2022\Repo\Add Calculator\Add Calculator\obj\Debug\net7.0-windows\Add Calculator.AssemblyInfoInputs.cache
+D:\Vistual Studio 2022\Repo\Add Calculator\Add Calculator\obj\Debug\net7.0-windows\Add Calculator.AssemblyInfo.cs
+D:\Vistual Studio 2022\Repo\Add Calculator\Add Calculator\obj\Debug\net7.0-windows\Add Calculator.csproj.CoreCompileInputs.cache
+D:\Vistual Studio 2022\Repo\Add Calculator\Add Calculator\obj\Debug\net7.0-windows\Add Calculator.dll
+D:\Vistual Studio 2022\Repo\Add Calculator\Add Calculator\obj\Debug\net7.0-windows\refint\Add Calculator.dll
+D:\Vistual Studio 2022\Repo\Add Calculator\Add Calculator\obj\Debug\net7.0-windows\Add Calculator.pdb
+D:\Vistual Studio 2022\Repo\Add Calculator\Add Calculator\obj\Debug\net7.0-windows\Add Calculator.genruntimeconfig.cache
+D:\Vistual Studio 2022\Repo\Add Calculator\Add Calculator\obj\Debug\net7.0-windows\ref\Add Calculator.dll

@@ -1,0 +1,17 @@
+D:\Vistual Studio 2022\Repo\Subtract Calculator\Subtract Calculator\bin\Debug\net7.0-windows\Subtract Calculator.exe
+D:\Vistual Studio 2022\Repo\Subtract Calculator\Subtract Calculator\bin\Debug\net7.0-windows\Subtract Calculator.deps.json
+D:\Vistual Studio 2022\Repo\Subtract Calculator\Subtract Calculator\bin\Debug\net7.0-windows\Subtract Calculator.runtimeconfig.json
+D:\Vistual Studio 2022\Repo\Subtract Calculator\Subtract Calculator\bin\Debug\net7.0-windows\Subtract Calculator.dll
+D:\Vistual Studio 2022\Repo\Subtract Calculator\Subtract Calculator\bin\Debug\net7.0-windows\Subtract Calculator.pdb
+D:\Vistual Studio 2022\Repo\Subtract Calculator\Subtract Calculator\obj\Debug\net7.0-windows\Subtract Calculator.csproj.AssemblyReference.cache
+D:\Vistual Studio 2022\Repo\Subtract Calculator\Subtract Calculator\obj\Debug\net7.0-windows\Add_Calculator.Form1.resources
+D:\Vistual Studio 2022\Repo\Subtract Calculator\Subtract Calculator\obj\Debug\net7.0-windows\Subtract Calculator.csproj.GenerateResource.cache
+D:\Vistual Studio 2022\Repo\Subtract Calculator\Subtract Calculator\obj\Debug\net7.0-windows\Subtract Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vistual Studio 2022\Repo\Subtract Calculator\Subtract Calculator\obj\Debug\net7.0-windows\Subtract Calculator.AssemblyInfoInputs.cache
+D:\Vistual Studio 2022\Repo\Subtract Calculator\Subtract Calculator\obj\Debug\net7.0-windows\Subtract Calculator.AssemblyInfo.cs
+D:\Vistual Studio 2022\Repo\Subtract Calculator\Subtract Calculator\obj\Debug\net7.0-windows\Subtract Calculator.csproj.CoreCompileInputs.cache
+D:\Vistual Studio 2022\Repo\Subtract Calculator\Subtract Calculator\obj\Debug\net7.0-windows\Subtract Calculator.dll
+D:\Vistual Studio 2022\Repo\Subtract Calculator\Subtract Calculator\obj\Debug\net7.0-windows\refint\Subtract Calculator.dll
+D:\Vistual Studio 2022\Repo\Subtract Calculator\Subtract Calculator\obj\Debug\net7.0-windows\Subtract Calculator.pdb
+D:\Vistual Studio 2022\Repo\Subtract Calculator\Subtract Calculator\obj\Debug\net7.0-windows\Subtract Calculator.genruntimeconfig.cache
+D:\Vistual Studio 2022\Repo\Subtract Calculator\Subtract Calculator\obj\Debug\net7.0-windows\ref\Subtract Calculator.dll

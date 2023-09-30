@@ -1,0 +1,7 @@
+D:\Vistual Studio 2017\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\obj\Debug\ConsoleApp1 - playground.csprojAssemblyReference.cache
+D:\Vistual Studio 2017\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\obj\Debug\ConsoleApp1 - playground.csproj.CoreCompileInputs.cache
+D:\Vistual Studio 2017\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\ConsoleApp1 - playground.exe.config
+D:\Vistual Studio 2017\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\ConsoleApp1 - playground.exe
+D:\Vistual Studio 2017\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\bin\Debug\ConsoleApp1 - playground.pdb
+D:\Vistual Studio 2017\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\obj\Debug\ConsoleApp1 - playground.exe
+D:\Vistual Studio 2017\Repo\ConsoleApp1 - playground\ConsoleApp1 - playground\obj\Debug\ConsoleApp1 - playground.pdb

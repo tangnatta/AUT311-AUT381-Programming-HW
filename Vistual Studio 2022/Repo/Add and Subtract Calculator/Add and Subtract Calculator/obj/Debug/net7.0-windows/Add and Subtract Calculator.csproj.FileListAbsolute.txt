@@ -1,0 +1,17 @@
+D:\Vistual Studio 2022\Repo\Add and Subtract Calculator\Add and Subtract Calculator\bin\Debug\net7.0-windows\Add and Subtract Calculator.exe
+D:\Vistual Studio 2022\Repo\Add and Subtract Calculator\Add and Subtract Calculator\bin\Debug\net7.0-windows\Add and Subtract Calculator.deps.json
+D:\Vistual Studio 2022\Repo\Add and Subtract Calculator\Add and Subtract Calculator\bin\Debug\net7.0-windows\Add and Subtract Calculator.runtimeconfig.json
+D:\Vistual Studio 2022\Repo\Add and Subtract Calculator\Add and Subtract Calculator\bin\Debug\net7.0-windows\Add and Subtract Calculator.dll
+D:\Vistual Studio 2022\Repo\Add and Subtract Calculator\Add and Subtract Calculator\bin\Debug\net7.0-windows\Add and Subtract Calculator.pdb
+D:\Vistual Studio 2022\Repo\Add and Subtract Calculator\Add and Subtract Calculator\obj\Debug\net7.0-windows\Add and Subtract Calculator.csproj.AssemblyReference.cache
+D:\Vistual Studio 2022\Repo\Add and Subtract Calculator\Add and Subtract Calculator\obj\Debug\net7.0-windows\Add_Calculator.Form1.resources
+D:\Vistual Studio 2022\Repo\Add and Subtract Calculator\Add and Subtract Calculator\obj\Debug\net7.0-windows\Add and Subtract Calculator.csproj.GenerateResource.cache
+D:\Vistual Studio 2022\Repo\Add and Subtract Calculator\Add and Subtract Calculator\obj\Debug\net7.0-windows\Add and Subtract Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vistual Studio 2022\Repo\Add and Subtract Calculator\Add and Subtract Calculator\obj\Debug\net7.0-windows\Add and Subtract Calculator.AssemblyInfoInputs.cache
+D:\Vistual Studio 2022\Repo\Add and Subtract Calculator\Add and Subtract Calculator\obj\Debug\net7.0-windows\Add and Subtract Calculator.AssemblyInfo.cs
+D:\Vistual Studio 2022\Repo\Add and Subtract Calculator\Add and Subtract Calculator\obj\Debug\net7.0-windows\Add and Subtract Calculator.csproj.CoreCompileInputs.cache
+D:\Vistual Studio 2022\Repo\Add and Subtract Calculator\Add and Subtract Calculator\obj\Debug\net7.0-windows\Add and Subtract Calculator.dll
+D:\Vistual Studio 2022\Repo\Add and Subtract Calculator\Add and Subtract Calculator\obj\Debug\net7.0-windows\refint\Add and Subtract Calculator.dll
+D:\Vistual Studio 2022\Repo\Add and Subtract Calculator\Add and Subtract Calculator\obj\Debug\net7.0-windows\Add and Subtract Calculator.pdb
+D:\Vistual Studio 2022\Repo\Add and Subtract Calculator\Add and Subtract Calculator\obj\Debug\net7.0-windows\Add and Subtract Calculator.genruntimeconfig.cache
+D:\Vistual Studio 2022\Repo\Add and Subtract Calculator\Add and Subtract Calculator\obj\Debug\net7.0-windows\ref\Add and Subtract Calculator.dll
