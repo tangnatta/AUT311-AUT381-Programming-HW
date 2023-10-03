@@ -1,0 +1,10 @@
+C:\Users\KOSEN\source\repos\Arduino Com\Arduino Com\obj\Debug\Arduino Com.csprojAssemblyReference.cache
+C:\Users\KOSEN\source\repos\Arduino Com\Arduino Com\obj\Debug\Arduino_Com.Form1.resources
+C:\Users\KOSEN\source\repos\Arduino Com\Arduino Com\obj\Debug\Arduino_Com.Properties.Resources.resources
+C:\Users\KOSEN\source\repos\Arduino Com\Arduino Com\obj\Debug\Arduino Com.csproj.GenerateResource.cache
+C:\Users\KOSEN\source\repos\Arduino Com\Arduino Com\obj\Debug\Arduino Com.csproj.CoreCompileInputs.cache
+C:\Users\KOSEN\source\repos\Arduino Com\Arduino Com\bin\Debug\Arduino Com.exe.config
+C:\Users\KOSEN\source\repos\Arduino Com\Arduino Com\bin\Debug\Arduino Com.exe
+C:\Users\KOSEN\source\repos\Arduino Com\Arduino Com\bin\Debug\Arduino Com.pdb
+C:\Users\KOSEN\source\repos\Arduino Com\Arduino Com\obj\Debug\Arduino Com.exe
+C:\Users\KOSEN\source\repos\Arduino Com\Arduino Com\obj\Debug\Arduino Com.pdb

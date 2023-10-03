@@ -1,0 +1,10 @@
+C:\Users\KOSEN\source\repos\MultiChart-Toyota\MultiChart-Toyota\bin\Debug\MultiChart-Toyota.exe.config
+C:\Users\KOSEN\source\repos\MultiChart-Toyota\MultiChart-Toyota\bin\Debug\MultiChart-Toyota.exe
+C:\Users\KOSEN\source\repos\MultiChart-Toyota\MultiChart-Toyota\bin\Debug\MultiChart-Toyota.pdb
+C:\Users\KOSEN\source\repos\MultiChart-Toyota\MultiChart-Toyota\obj\Debug\MultiChart-Toyota.csprojAssemblyReference.cache
+C:\Users\KOSEN\source\repos\MultiChart-Toyota\MultiChart-Toyota\obj\Debug\MultiChart_Toyota.Form1.resources
+C:\Users\KOSEN\source\repos\MultiChart-Toyota\MultiChart-Toyota\obj\Debug\MultiChart_Toyota.Properties.Resources.resources
+C:\Users\KOSEN\source\repos\MultiChart-Toyota\MultiChart-Toyota\obj\Debug\MultiChart-Toyota.csproj.GenerateResource.cache
+C:\Users\KOSEN\source\repos\MultiChart-Toyota\MultiChart-Toyota\obj\Debug\MultiChart-Toyota.csproj.CoreCompileInputs.cache
+C:\Users\KOSEN\source\repos\MultiChart-Toyota\MultiChart-Toyota\obj\Debug\MultiChart-Toyota.exe
+C:\Users\KOSEN\source\repos\MultiChart-Toyota\MultiChart-Toyota\obj\Debug\MultiChart-Toyota.pdb

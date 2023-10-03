@@ -1,0 +1,17 @@
+C:\Users\KOSEN\source\repos\MultiLiveChart\MultiLiveChart\bin\Debug\MultiLiveChart.exe.config
+C:\Users\KOSEN\source\repos\MultiLiveChart\MultiLiveChart\bin\Debug\MultiLiveChart.exe
+C:\Users\KOSEN\source\repos\MultiLiveChart\MultiLiveChart\bin\Debug\MultiLiveChart.pdb
+C:\Users\KOSEN\source\repos\MultiLiveChart\MultiLiveChart\bin\Debug\LiveCharts.dll
+C:\Users\KOSEN\source\repos\MultiLiveChart\MultiLiveChart\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\KOSEN\source\repos\MultiLiveChart\MultiLiveChart\bin\Debug\LiveCharts.pdb
+C:\Users\KOSEN\source\repos\MultiLiveChart\MultiLiveChart\bin\Debug\LiveCharts.xml
+C:\Users\KOSEN\source\repos\MultiLiveChart\MultiLiveChart\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\KOSEN\source\repos\MultiLiveChart\MultiLiveChart\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\KOSEN\source\repos\MultiLiveChart\MultiLiveChart\obj\Debug\MultiLiveChart.Properties.Resources.resources
+C:\Users\KOSEN\source\repos\MultiLiveChart\MultiLiveChart\obj\Debug\MultiLiveChart.csproj.GenerateResource.cache
+C:\Users\KOSEN\source\repos\MultiLiveChart\MultiLiveChart\obj\Debug\MultiLiveChart.csproj.CoreCompileInputs.cache
+C:\Users\KOSEN\source\repos\MultiLiveChart\MultiLiveChart\obj\Debug\MultiLiveChart.csproj.CopyComplete
+C:\Users\KOSEN\source\repos\MultiLiveChart\MultiLiveChart\obj\Debug\MultiLiveChart.exe
+C:\Users\KOSEN\source\repos\MultiLiveChart\MultiLiveChart\obj\Debug\MultiLiveChart.pdb
+C:\Users\KOSEN\source\repos\MultiLiveChart\MultiLiveChart\obj\Debug\MultiLiveChart.Form1.resources
+C:\Users\KOSEN\source\repos\MultiLiveChart\MultiLiveChart\obj\Debug\MultiLiveChart.csprojAssemblyReference.cache
